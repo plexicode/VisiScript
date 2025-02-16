@@ -1,2 +1,3 @@
 # VisiScript
-An implementation of CommonScript for displaying animated visualizations
+
+An implementation of CommonScript for displaying animated visualizations.

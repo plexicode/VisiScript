@@ -1,0 +1,13 @@
+draw_ellipse
+draw_fill
+draw_get_screen_size
+draw_image
+draw_line
+draw_rectangle
+draw_flush_all
+set_frame_rate
+image_get_resource
+image_load_external_resource_begin
+image_is_external_resource_loaded
+image_clone_resize
+image_clone_rotate
